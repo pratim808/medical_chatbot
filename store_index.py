@@ -16,8 +16,4 @@ db.save_local(DB_FAISS_PATH)
 print("### db is created")
 
 
-# Load the data from the PDF file
-'''def create_vector_db():
-    
 
-create_vector_db()'''
