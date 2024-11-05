@@ -1,0 +1,16 @@
+ctransformers==0.2.5
+#sentence-transformers==2.2.2
+faiss-cpu
+#langchain==0.0.225
+flask
+pypdf
+python-dotenv
+gradio
+#faiss-cpu
+sentence-transformers
+langchain_community
+langchain
+langchain_groq
+langchain_openai
+
+-e .
