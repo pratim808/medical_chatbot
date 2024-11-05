@@ -11,7 +11,7 @@ Ask me anything about The GALE ENCYCLOPEDIA of MEDICINE!
 Clone the repository
 
 ```bash
-Project repo: [https://github.com/](https://github.com/pratim808/medical_chatbot.git)
+Project repo: https://github.com/pratim808/medical_chatbot.git
 ```
 
 ### STEP 01- Create a virtual environment after opening the repository
