@@ -51,6 +51,6 @@ python app.py
 
 Now,
 ```bash
-open up localhost:
+open up localhost: http://192.168.110.121:8080
 ```
 
